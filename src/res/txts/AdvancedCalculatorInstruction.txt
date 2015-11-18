@@ -1,0 +1,15 @@
+Advanced Calculator Instruction:
+This mode is quite complex. It is not hard, nor too easy to use this mode.
+
+
+# This mode is integrated with almost all possible Scientofic operations. So you should be always aware of what you are doing. Or you may get an error or, un expected answer.
+
+# The input place supports 120 characters long instruction command.
+
+# You should be really concerned while using the backspace(<B), it is some tricky to use this feature.
+
+# There is also the shift key, which changes some of the buttons' operations.
+
+# You may find some uses of the buttons weired or even unexpectedly flexible, like- sin 30 & 30 sin represents the same!
+
+# The calculator may also produce answer to a wrong input, ofcourse the answer is wrong too! So you have to be careful yourself.

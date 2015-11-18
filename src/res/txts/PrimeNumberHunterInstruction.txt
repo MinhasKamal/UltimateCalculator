@@ -1,0 +1,9 @@
+Prime Number Hunter Instruction:
+May be there is no need of any instruction to use this mode.
+
+
+# Enter your range in the input box & press Find to get the prime numbers.
+
+# The mode can calculate number from 1 to 999,999,999,999,999,999; But believe me you wont ever enter such a high range as you may have to wait more than an hour!!!
+
+# Although it takes less than 3 seconds to find numbers between 0-100000.

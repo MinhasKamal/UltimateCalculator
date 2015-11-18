@@ -1,0 +1,15 @@
+@ This program is open for all. Any one can change it or use it for any purpose.
+
+
+I have designed this program on the basis of our 2nd Semister Java Project. I and my friend Zaeed had to work 2 months to build up a design of a Scientific Calculator which had some bugs and was not user friendly! We did have a vision to improve it but I could not wait longer. So after the exam I alone made a new design and started the work from the beginning. I did not use code from the program but the thought. This is only the pro-version, I shall try to launch better version next time.
+
+I am really thank full to my teachers and friends. I also thank my friend, Zaeed(BSSE-0504), as I have used some of his ideas from our project.
+
+You may not find the program too great and will find many better calculators in the web. But as a java student may be this was the best I could do with my limited knowledge.
+
+** Thanks **
+
+
+                                                                             -Developer#
+                                                                             17-Jan-2014
+		

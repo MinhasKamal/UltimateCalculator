@@ -1,0 +1,13 @@
+Unit Converter Instruction:
+This converter's use is the same as any other unit converter.
+
+
+# Select type of quantity from the top most combo box.
+
+# Select unit type form the other two combo boxes.
+
+# Enter the number in the 'From' text field & press the button 'Convert'.
+
+# Result wiil be shown in the 'To' text field.
+
+# You can enter large or small numbers like this- 9.87e-10.

@@ -1,0 +1,15 @@
+Simple Calculator Instruction:
+The use of this mode is really easy and same as any other non-scientific caculator.
+
+
+# Enter your operands by pressing numarical buttons, set operation type by pressing operator buttons.
+
+# Press '=' to get the answer in the result field.
+
+# Button 'sqrt' calculates the square-root of the number in the result field.
+
+# You cannot not enter number having more than 20 digits.
+
+# Press '<B' button to delete digits number, 'C' to delete whole number & 'AC' to clear all.
+
+# Press 'MS' to store any number from the result field in the memory & press 'M' to use that number.

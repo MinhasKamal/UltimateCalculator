@@ -1,0 +1,12 @@
+Base Calculator Instruction:
+It's use is almost like the simple mode, in addition it works with 4 types of bases.
+
+
+# You can change mode by pressing base mode buttons.
+
+# Convert base form by- input the number, press '=', press base mode button.
+
+# You can store a number but the number is cleaned up when you change base mode.
+
+
+Note: This mode cannot deal with floating type number.

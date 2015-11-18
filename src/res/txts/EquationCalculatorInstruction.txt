@@ -1,0 +1,16 @@
+Equation Calculator Instruction:
+This mode is made as simple as possible. You can find solution of four types of equations.
+
+
+# Select equation type from the tabbed panes.
+
+# Fill up all the input texts and press 'Solve' to solve.
+
+# You can input any thing in those text fields but this mode supports only integer or floating type numbers.
+
+# Try not input number having more than five digits, as it may result wrong answer or error.
+
+# While working with third degree equation some times the calculator may not be able to provide specific answer (Because of not having single real root).
+
+
+Note: Sometimes you may find result that is larger than the text pane's capability. Use your mouse pointer's selection feature to get to see the full result

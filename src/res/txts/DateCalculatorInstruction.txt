@@ -1,0 +1,12 @@
+Date Calculator Instruction:
+This mode can calculte difference between any two dates from 01/01/0001 to 31/12/1000000.
+
+
+# Enter your first date in the 'From' text fields (dd, mm, yy).
+
+# The program automatically writes today's date in the 'To' text fields. You may over-write it if necessary.
+
+# Press button 'Calculate' to get the difference.
+
+
+Extreme Case: Sometimes you may see the program processing invalid inputs, so then it will be up to you to give right inputs.
