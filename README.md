@@ -1,4 +1,6 @@
 # Ultimate Calculator
+
+###Functions:
 1. Simple Calculator
 2. Advanced Calculator
 3. Base Calculator
@@ -6,6 +8,8 @@
 5. Date Calculator
 6. Prime Number Hunter
 7. Unit Converter
+
+###View:
 
   <div align="center">
   <img title="simple calculator" src="https://cloud.githubusercontent.com/assets/5456665/12999507/40af666c-d17a-11e5-9a1e-fced9a7e602a.png" height="270" width="210" >
