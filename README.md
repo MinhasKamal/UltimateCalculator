@@ -1,7 +1,7 @@
 # Ultimate Calculator
 #### Basic Scientific Calculator
 
-This software has four major modes- **Simple**, **Scientific**, **Base** & **Equation**. It also has a **Unit Converter**, **Date Calculator** & **Prime Number finder**.
+[This software](http://minhaskamal.github.io/UltimateCalculator) has four major modes- **Simple**, **Scientific**, **Base** & **Equation**. It also has a **Unit Converter**, **Date Calculator** & **Prime Number finder**.
 
 ### Functions
   <div align="center">
