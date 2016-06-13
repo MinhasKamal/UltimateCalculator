@@ -15,7 +15,7 @@ This software has four major modes- **Simple**, **Scientific**, **Base** & **Equ
   </div>
 
 ### Release Date
-17 Jan 2014
+17 Jan 2014<br/>
 13 Dec 2013 (first release)
 
 ### License
