@@ -14,7 +14,7 @@
   <img title="Unit Converter" src="https://cloud.githubusercontent.com/assets/5456665/12999504/40870af0-d17a-11e5-986b-e9c09cbb4878.png" height="250" width=auto style="padding:5px">
   </div>
 
-### Release Date
+### Release Dates
 17 Jan 2014<br/>
 13 Dec 2013 (first release)
 
