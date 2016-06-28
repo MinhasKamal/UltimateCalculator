@@ -1,4 +1,4 @@
-# Ultimate Calculator
+# :heavy_plus_sign: Ultimate Calculator
 #### Basic Scientific Calculator
 
 [This software](http://minhaskamal.github.io/UltimateCalculator) has four major modes- **Simple**, **Scientific**, **Base** & **Equation**. It also has **Unit Converter**, **Date Calculator** & **Prime Number Hunter**.
