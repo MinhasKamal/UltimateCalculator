@@ -1,4 +1,4 @@
-# :heavy_plus_sign: Ultimate Calculator
+<h1> <img src="https://cloud.githubusercontent.com/assets/5456665/22564811/0c9f5216-e9b0-11e6-8f4d-9d85e163f0e5.png" width="24" height=auto /> Ultimate Calculator </h1>
 #### Basic Scientific Calculator
 
 [This software](http://minhaskamal.github.io/UltimateCalculator) has four major modes- **Simple**, **Scientific**, **Base** & **Equation**. It also has **Unit Converter**, **Date Calculator** & **Prime Number Hunter**.
